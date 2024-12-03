@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Code-Crafters-Academy/static/css/main.1db0e4d7.css",
+    "main.js": "/Code-Crafters-Academy/static/js/main.1db590d2.js",
+    "static/js/453.19738bf6.chunk.js": "/Code-Crafters-Academy/static/js/453.19738bf6.chunk.js",
+    "static/media/bgimg.png": "/Code-Crafters-Academy/static/media/bgimg.0d52219827c176640e87.png",
+    "static/media/img1.png": "/Code-Crafters-Academy/static/media/img1.388dac35bac04b637997.png",
+    "index.html": "/Code-Crafters-Academy/index.html",
+    "main.1db0e4d7.css.map": "/Code-Crafters-Academy/static/css/main.1db0e4d7.css.map",
+    "main.1db590d2.js.map": "/Code-Crafters-Academy/static/js/main.1db590d2.js.map",
+    "453.19738bf6.chunk.js.map": "/Code-Crafters-Academy/static/js/453.19738bf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db0e4d7.css",
+    "static/js/main.1db590d2.js"
+  ]
+}
